@@ -15,3 +15,6 @@ Working within the Visual Studio Code environment, I was able to leverage a robu
  With the environment configured, I initialized a SparkSession, the entry point for PySpark functionality. 
 **Conclusion**
  Completing this big data analysis project using PySpark within VS Code, powered by Kaggle's rich datasets, demonstrated the accessibility of modern big data tools.This project reinforced how contemporary data science tools have democratized big data analytics, enabling individual practitioners to tackle problems previously reserved for large organizations.
+**Output**
+An output of a code which describing the change of column name and descrimination of updated column and data.
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/b87c8f3b-e40e-486f-bde1-78218a730bfc" />
